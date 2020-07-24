@@ -5,3 +5,5 @@ Nesse projeto foi desenvolvido para que pudesse ser avaliado questões de interf
 A utilizada nesse caso foi a avaliação heurística.
 
 
+## Página inicial do website
+![site-interacaoportoque](https://user-images.githubusercontent.com/56418006/88432437-95e72080-cdd2-11ea-859a-27c99421a4c1.PNG)
