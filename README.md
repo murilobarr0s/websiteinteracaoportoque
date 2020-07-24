@@ -4,7 +4,7 @@ Site desenvolvido em Javascript / HTML e CSS para o trabalho acadêmico da disci
 Nesse projeto foi desenvolvido para que pudesse ser avaliado questões de interface e usabilidade, considerando os tipos de avaliação utilizadas para web. 
 A utilizada nesse caso foi a avaliação heurística. 
 
- -> **site totalmente responsivo ;) **
+ -> **site totalmente responsivo ;)**
 
 
 
